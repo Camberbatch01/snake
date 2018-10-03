@@ -1,0 +1,39 @@
+canvas {
+    padding: 0%;
+    margin: 0% auto;
+    display: block;
+    background-color:rgb(0, 0, 0);
+}
+h1 {
+    font-family: fantasy;
+    font-size: 40px;
+    color: yellow;
+    text-align: center;
+}
+body {
+    background-color: midnightblue;
+}
+p {
+    font-family: fantasy;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    padding: 0%;
+    margin: 0% auto;
+}
+#play {
+    font-family: fantasy;
+    font-size: 25px;
+    background-color: white;
+    color: midnightblue;
+    text-align: center;
+    border-radius: 8px;
+    border-color: yellow;
+    padding: 0%;
+    margin: 0% auto;
+    display: block;
+}
+#play:hover {
+    background-color: yellow;
+    cursor: pointer;
+}
